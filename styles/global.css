@@ -1,0 +1,11 @@
+body {
+    width: 650px;
+    height: 100%;
+    margin: auto;
+    font-family: KaTeX_Main,Times New Roman,serif;
+    font-size: 14px;
+}
+a{
+    text-decoration:none;
+    color: black;
+}

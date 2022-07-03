@@ -1,0 +1,15 @@
+.postsContainer {
+    width: 100%;
+    border-bottom: 1px ridge black;
+}
+.postItem {
+    width: 100%;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.postTitle {
+    border-bottom: 1px dashed black;
+    padding-bottom: 5px;
+}
