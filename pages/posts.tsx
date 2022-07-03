@@ -10,7 +10,7 @@ export default () => {
           return (
             <div className={Style.postItem}>
               <div className={Style.postTitle}>
-                <Link href={`detaile/${item}`}>继承</Link>
+                <Link href={`/detail`}>继承</Link>
               </div>
               <div className={Style.postReleaseTime}>2022-07-03</div>
             </div>
