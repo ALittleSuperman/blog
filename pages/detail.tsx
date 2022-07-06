@@ -5,7 +5,6 @@ import {
     SandpackCodeEditor,
     SandpackPreview,
     SandpackReactDevTools,
-    SandpackTranspiledCode,
   } from "@codesandbox/sandpack-react"
 export default () => {
     
